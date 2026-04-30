@@ -22,9 +22,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: Pocket Trash Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
-# description appears in meta tags and other locations
-# this description might appear in search result lists, keep around 160 characters max
+tagline: 
 description: A collection of donated trash items from community members found in pockets and bags
 author: Reed Davidson
 
